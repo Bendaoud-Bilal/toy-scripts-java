@@ -1,12 +1,11 @@
 /*
- * Problem: Post-increment through pointers
- * Exercise on pointers and the difference between (*a)++ and *a++: read a
- * number and print the values of both pointed variables.
+ * Problem: Post-increment through pointers (copy)
+ * Copy of the 'Void Functions' exercise on pointers and post-increment.
  * Context: University tutorial / lab exercise (TD / TP)
  */
 
-public class PostIncrementThroughPointers {
+public class PostIncrementThroughPointersCopy {
     public static void main(String[] args) {
-        System.out.println("Post-increment through pointers");
+        System.out.println("Post-increment through pointers (copy)");
     }
 }
