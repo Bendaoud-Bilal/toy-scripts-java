@@ -1,13 +1,12 @@
 /*
- * Problem: Nested structures: person, student, university
- * Exercise on typedef/struct: a student contains a person (name, family name,
- * age) and a speciality; read the data of a university with dynamic
- * allocation.
+ * Problem: Nested structures: person, student, university (copy)
+ * Copy of the 'University Structure' exercise: person -> student -> university
+ * structures filled from the keyboard.
  * Context: University tutorial / lab exercise (TD / TP)
  */
 
-public class NestedStructuresPersonStudentUniversity {
+public class NestedStructuresPersonStudentUniversityCopy {
     public static void main(String[] args) {
-        System.out.println("Nested structures: person, student, university");
+        System.out.println("Nested structures: person, student, university (copy)");
     }
 }
