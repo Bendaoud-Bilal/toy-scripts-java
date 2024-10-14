@@ -1,12 +1,12 @@
 /*
- * Problem: Choice menu A/B/C with keyboard keys
- * Console menu with three choices A, B, C moved with 'u' (up) and 'd' (down)
- * and validated with 'e'; selecting displays the chosen option.
+ * Problem: Choice menu A/B/C (version 0)
+ * First prototype of the A/B/C menu: draws the three choices and marks the
+ * selected one with '<<<'.
  * Context: University tutorial / lab exercise (TD / TP)
  */
 
-public class ChoiceMenuABCWithKeyboardKeys {
+public class ChoiceMenuABCVersion0 {
     public static void main(String[] args) {
-        System.out.println("Choice menu A/B/C with keyboard keys");
+        System.out.println("Choice menu A/B/C (version 0)");
     }
 }
